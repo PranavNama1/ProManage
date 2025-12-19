@@ -1,0 +1,8 @@
+
+{
+  "name": "ProManage Portal",
+  "description": "A comprehensive landing page and admin panel for managing business projects, client testimonials, contact inquiries, and newsletter subscriptions with AI-powered content generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
